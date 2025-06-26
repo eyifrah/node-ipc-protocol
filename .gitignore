@@ -1,0 +1,2 @@
+# Ignore everything except generated Go code
+!/gen/go/nodeipc/ 
